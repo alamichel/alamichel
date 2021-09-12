@@ -9,6 +9,7 @@
 -->
 
 # Hi there 👋
+
 Welcome to my GitHub profile! I am a Computer Science and Engineering undergrad
 attending UC Davis. Feel free to roam around my repositories to see what
 projects I have been working on lately. You could also take a look at my
@@ -18,8 +19,9 @@ these pages, like the code in these repositories, are a work in progress,
 undergoing development from time to time. I will do my best to make note of it in
 the `README`, if available.)
 
-*(Last Updated: 2021-05-01)*
+*(Last Updated: 2021-09-12)*
 
 # My Live GitHub Stats
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamichel&hide=java.html.css&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![alamichel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamichel&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
