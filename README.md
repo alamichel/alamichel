@@ -8,7 +8,7 @@
   Style.
 -->
 
-# Hi there 👋
+# Hi there! 👋
 
 Welcome to my GitHub profile! I am a Computer Science and Engineering undergrad
 attending UC Davis. Feel free to roam around my repositories to see what
